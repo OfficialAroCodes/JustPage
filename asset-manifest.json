@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JustPage/static/css/main.42e6bcb2.css",
+    "main.js": "/JustPage/static/js/main.0e3ca50d.js",
+    "static/media/img1.png": "/JustPage/static/media/img1.df96dea14cbdb0cbc753.png",
+    "index.html": "/JustPage/index.html",
+    "main.42e6bcb2.css.map": "/JustPage/static/css/main.42e6bcb2.css.map",
+    "main.0e3ca50d.js.map": "/JustPage/static/js/main.0e3ca50d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e6bcb2.css",
+    "static/js/main.0e3ca50d.js"
+  ]
+}
